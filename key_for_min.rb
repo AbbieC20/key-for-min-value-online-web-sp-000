@@ -5,4 +5,5 @@ def key_for_min_value(name_hash)
     if value == 1 || value == 10
     smallest_value = key
   end
+  smallest_value
 end
