@@ -24,4 +24,5 @@ def key_for_min_value(name_hash)
       matching_key = key
     end
   end
+  return matching_key
 end
